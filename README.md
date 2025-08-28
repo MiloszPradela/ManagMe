@@ -71,7 +71,7 @@ Backend wymaga pliku `.env` do przechowywania kluczy API i konfiguracji bazy dan
 4.  Aplikacja będzie dostępna w przeglądarce pod adresem [http://localhost:5173](http://localhost:5173).
 
 ## Struktura Projektu
-
+ ```
 ManagMe/
 ├── api/ # Kod źródłowy backendu (Node.js/Express)
 │ ├── .env.example # Szablon zmiennych środowiskowych
@@ -81,6 +81,6 @@ ManagMe/
 │ └── cypress/ # Testy End-to-End
 ├── .gitignore # Pliki i foldery ignorowane przez Git
 └── README.md # Ta dokumentacja
-
+ ```
 
 Projekt stworzony na potrzeby własne przez [MiloszPradela](https://github.com/MiloszPradela).
