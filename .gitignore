@@ -1,0 +1,8 @@
+# Ignoruj zależności w obu folderach
+/api/node_modules
+/client/node_modules
+
+# Ignoruj pliki środowiskowe
+.env
+/api/.env
+/client/.env
